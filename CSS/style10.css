@@ -993,6 +993,10 @@ section {
         margin: 0px 15px 0px 15px;
     }
 
+    .center {
+        padding-bottom: 370px;
+    }
+
     .logInContent {
         width: 350px;
         height: 550px;

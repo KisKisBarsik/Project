@@ -560,6 +560,10 @@ section {
         padding-top: 0px;
     }
 
+    .center {
+        padding-bottom: 170px;
+    }
+
 }
 
 
@@ -1164,13 +1168,26 @@ section {
         width: 250px;
     }
 
+    .dropdown-button {
+        font-size: 16px;
+    }
+
     .dropdown-content {
         width: 235px;
+    }
+
+    .dropdown-item {
+        font-size: 16px;
+        padding: 12.5px 0px 12.5px 0px;
     }
 
     #results {
         width: 160px;
         font-size: 20px;
+    }
+
+    #inputSum {
+        font-size: 16px;
     }
     
 }
