@@ -180,6 +180,13 @@ section {
 
 
 
+.rowResults {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+
 .hidde1, .hidde2, .hidde3, .hidde4, .hidde5, .hidde6, .hidde7, .hidde8, .hidde9, .hidde10, .hidde11, .hidde12, .hidde13, .hidde14, .hidde15, .hidde16, .hidde17, .hidde18, .hidde19, .hidde20, .hidde21, .hidde22, .hidde23, .hidde24, .hidde25, .hidde26 {
     display: block;
     margin: 20px 0px 20px 0px;
